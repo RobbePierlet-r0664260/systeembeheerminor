@@ -6,3 +6,4 @@ ssh/*
 !default/
 default/*
 !default/sshguard
+!locale.gen
