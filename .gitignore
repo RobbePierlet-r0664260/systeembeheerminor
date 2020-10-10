@@ -1,5 +1,6 @@
-*
-*/
+/*
 !.gitignore
-!/etc/ssh/sshd_config
+!ssh/
+ssh/*
+!ssh/sshd_config
 
