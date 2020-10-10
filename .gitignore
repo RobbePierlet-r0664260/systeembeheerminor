@@ -3,4 +3,6 @@
 !ssh/
 ssh/*
 !ssh/sshd_config
-
+!default/
+default/*
+!default/sshguard
