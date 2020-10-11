@@ -10,3 +10,7 @@ default/*
 !environment
 !sudoers
 !sudoers.d/
+!init.d/
+!kernel/
+!logrotate.d/
+!pm/
