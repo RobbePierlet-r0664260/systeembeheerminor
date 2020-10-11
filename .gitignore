@@ -8,3 +8,5 @@ default/*
 !default/sshguard
 !locale.gen
 !environment
+!sudoers
+!sudoers.d/
