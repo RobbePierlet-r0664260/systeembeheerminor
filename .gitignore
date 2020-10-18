@@ -18,3 +18,9 @@ default/*
 !incron.conf
 !incron.d/
 !incron.deny
+!network
+network/*
+!network/if-up.d
+network/if-up.d/*
+!network/if-up.d/loadarpentries
+!ethers
