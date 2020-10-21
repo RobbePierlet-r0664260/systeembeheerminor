@@ -24,3 +24,4 @@ network/*
 network/if-up.d/*
 !network/if-up.d/loadarpentries
 !ethers
+!scripts
