@@ -26,3 +26,6 @@ network/if-up.d/*
 !bind/
 bind/*
 !bind/named.conf.local
+!bind/zones
+bind/zones/*
+!bind/zones/db.robbe-pierlet.sb.uclllabs.be
