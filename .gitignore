@@ -10,7 +10,6 @@ default/*
 !environment
 !sudoers
 !sudoers.d/
-!init.d/
 !kernel/
 !logrotate.d/
 !pm/
@@ -24,4 +23,6 @@ network/if-up.d/*
 !network/if-up.d/loadarpentries
 !ethers
 !ntp.conf
-
+!bind/
+bind/*
+!bind/named.conf.local
