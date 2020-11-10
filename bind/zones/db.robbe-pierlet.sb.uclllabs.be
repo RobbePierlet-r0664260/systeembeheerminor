@@ -4,7 +4,7 @@
 $ORIGIN robbe-pierlet.sb.uclllabs.be.
 $TTL	604800
 @	IN	SOA	ns.robbe-pierlet.sb.uclllabs.be. root.robbe-pierlet.sb.uclllabs.be. (
-			      6		; Serial
+			      8		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
@@ -25,3 +25,5 @@ test	IN	A	193.191.177.254
 secure	IN	A	193.191.177.199
 supersecure	IN	A	193.191.177.199
 @	IN	CAA	0 issue "letsencrypt.org"
+mx.robbe-pierlet.sb.uclllabs.be.	IN	A	193.191.177.199
+robbe-pierlet.sb.uclllabs.be.	IN	MX	10 mx.robbe-pierlet.sb.uclllabs.be.
