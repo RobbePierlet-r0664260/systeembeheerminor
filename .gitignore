@@ -29,3 +29,8 @@ bind/*
 !bind/zones
 bind/zones/*
 !bind/zones/db.robbe-pierlet.sb.uclllabs.be
+!systemd/
+systemd/*
+!systemd/network/
+systemd/network/*
+!systemd/network/eth0.network
