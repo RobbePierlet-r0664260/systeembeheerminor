@@ -4,7 +4,7 @@
 $ORIGIN robbe-pierlet.sb.uclllabs.be.
 $TTL	604800
 @	IN	SOA	ns.robbe-pierlet.sb.uclllabs.be. root.robbe-pierlet.sb.uclllabs.be. (
-		             20		; Serial
+		             23		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
