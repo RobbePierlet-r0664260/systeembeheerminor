@@ -34,3 +34,5 @@ bind/zones/*
 !netplan/
 netplan/*
 !netplan/99_config.yaml
+!deadline3.txt
+
