@@ -16,6 +16,8 @@ default/*
 !incron.allow
 !incron.conf
 !incron.deny
+!incrond.d/
+incron.d/etc.conf
 !network
 network/*
 !network/if-up.d
